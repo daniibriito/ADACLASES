@@ -1,0 +1,31 @@
+. mi-span {
+  borde : 1 px negro sólido;
+  pantalla : bloque;
+  altura : 350 px ;
+  margen : 0 automático;
+  alinear texto : centro; / * Centra todo mi contenido, no a mi mismo * /
+  ancho : 350 px ;
+}
+
+. mi-span  a {
+  alinear texto : centro; /* It doesn't work */
+  borde : 1 px rojo sólido;
+} 
+
+. mi-span-span {
+  pantalla : bloque en línea;
+  borde : 1 px azul sólido;
+  ancho : 50 px ;
+}
+
+div {
+  pantalla : bloque; / * Esto es redundante * /
+  borde : 1 px de chocolate sólido;
+  ancho : 50 px ;
+  margen : 0 automático; / * Esto me centra el div, pero no toma el text-align center del padre * /
+}
+
+. solo-texto {
+  ancho : 30 px ;
+  altura : 50 px ;
+}

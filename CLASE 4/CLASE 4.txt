@@ -1,0 +1,19 @@
+TEMAS:
+
+Repaso y revision de ejercicios de tarea.
+
+TAREA:
+
+https://github.com/Ada-Online-2da-Gen/Consignas/blob/master/Clase%2004%20(08-11-2019).md
+
+En el archivo de citas:
+
+Agregar tipografías con google fonts (falta)
+Encerrar cada cita en un div, con clase "container" (listo)
+Encerrar cada elemento en otro div, con clase "section" (listo)
+Ponerle a cada "section" y a cada "container" un color de fondo distinto (para esto van a tener que agregar una clase distinta a cada uno, como "section-first") (listo)
+Ponerle a "container" (listo)
+un ancho en pixeles (listo)
+un margin en pixeles, para que quede espaciado verticalmente a la misma distancia con respecto a "section", y quede centrado horizontalmente (listo)
+un padding en pixeles (listo)
+A las citas, agregarle un border-left y un padding, para que parezca un bloque de cita (listo)

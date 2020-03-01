@@ -1,0 +1,47 @@
+GIT ES UN CONTROL DE VERSIONES. PERMITE CONTROLAR LAS VERSIONES DE MI SOFTWARE, PORQUE SE TIENEN QUE GUARDAR LOS CAMBIOS PERO SIN PERDERLOS.
+
+
+
+
+ls: LISTAR CARPETAS
+
+PARA ENTRAR A ESCRITORIO: cd Desktop, enter, ls.
+
+cuando la carpeta tiene espacios se le coloca el primer nombre y luego tag y lo completa.
+
+para meterme en ADA: una vez en escritorio, me meto en cd ADA, tag para completarlo, enter, ls. 
+
+para frontend: ya en ada, cd frontend, enter, ls.
+
+para clase tal: ya en frontend, cd 'CLASE TAL', enter, ls.
+
+cd .. = RETROCEDE JUNA CARPETA
+
+git init = dentro de la carpeta donde esté crea un archivo .git
+
+ls -ltra = mostrar lista de archivos incluyendo ocultos (.git)
+
+ls -a= mostrar archivos ocultos (git)
+
+git status = status de mi git
+
+git add miarchivo.txt 
+
+git commit -m "Primer commit" = (o el mensaje dentro de las comillas) -m significa mensaje
+
+git log 
+
+git add .
+
+git status (coloca de nuevo verde)
+
+git commit -m "cambios a mi archivo"
+
+git log
+TRADUCCIONES: 
+
+no commits yet: no hay ningun cambio en el repositorio.
+
+untracked files: esta lista de archivo son los archivos nuevos.
+
+

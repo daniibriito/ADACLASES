@@ -1,0 +1,27 @@
+.mispan {
+    border: 1px solid black;
+    display: inline-block;
+    height: 50px;
+    text-align: center;
+    margin: 0 auto;
+    width: 350px;
+}
+
+.mispan a {
+    text-align: center;
+    border: 1px solid red;
+}
+
+.mi-span-span{
+    display: inline-block;
+    border: 1px solid blue;
+    width: 50px;
+    height: 20px;
+}
+
+div{
+    display: block;
+    border: 1px solid fuchsia;
+    width: 50px;
+    margin: 0 auto;
+}

@@ -1,0 +1,49 @@
+.seccion-1{ /* esto es una clase para asignar color */
+    background-color: violet;
+}
+
+.seccion-2{
+    background-color: rgb(233, 194, 233);
+}
+
+ div {
+     color: rgb(51, 0, 51);
+ }
+.texto-remarcado {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    text-align: center;
+}
+
+h1 {
+    font-style: oblique;
+    background-color: purple;
+    color: ivory;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin:auto;
+    width: 50%; 
+    border: 10px solid;
+    padding: 15px;
+}
+
+p{
+    font-size: larger;
+}
+
+.block {
+    display: block;
+    width: 50%;
+}
+
+.in-line{
+    display: inline;
+}
+
+.subrayado{
+    text-decoration: underline;
+}

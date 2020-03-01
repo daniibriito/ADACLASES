@@ -1,0 +1,9 @@
+TEMAS:
+
+Que es programación.
+Que son HTML, CSS, y Javascript.
+Empezando a usar Visual Studio.
+Estructura básica de un HTML.
+Etiquetas h1-h6, p, ul, ol, li, strong.
+
+TAREA: Buscar en google cómo armar un link a google.

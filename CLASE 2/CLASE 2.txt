@@ -1,0 +1,15 @@
+TEMAS:
+
+Tag <a>
+Introduccion a CSS
+Estilos inline
+Tag <style>
+Estilos en archivo css separado
+Estilos de color de fondo y color de fuente
+Estilos de fuente
+Selectores por tag, clase y id.
+Inspeccionar con google developer tools.
+
+TAREA: 
+
+Hacer un articulo "periodistico" sobre el tema que quieran, que tenga titulo, subtitulo, dos parrafos, y modificar los estilos a gusto, usando lo aprendido en la clase.

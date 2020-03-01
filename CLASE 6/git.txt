@@ -1,0 +1,37 @@
+git ls
+cd desktop
+cd 'ADA ONLINE'
+cd 'FRONTEND'
+cd 'CLASE 6'
+git init (se inicializo un repositorio git vacio en tal carpeta)
+ls -ltra ls parametro: mostrar lista ordenada. si fuera ls -a mostrar todo.
+
+git status (carpetas en rojo)
+git add index.html
+git status (carpeta agregada en verde)
+git commit -m "clase6" (el que da la serie de numeros unicos)
+
+al hacer cambios en el documento:
+git status
+git log
+git add .
+git status
+git commit -m "cambios a clase6" 
+
+
+listo ahora si!
+
+
+ 
+PARA CREAR REPOSITORIO CON GITHUB:
+git remote add origin (repositorio remoto a origin o el nombre que uno quiera)
+git remote -v
+git status
+git push origin master ()
+
+
+git remote add origin https://github.com/daniibriito/adaprueba.git
+
+sudo rm -R .git (en caso de haber creado una carpeta .git dentro de otra .git) (git init)
+git reset --soft (buscar otra versión anterior en git)
+git remove -v (si se coloca esto y no aparece nada, es que no hay nignun repositorio remoto)
