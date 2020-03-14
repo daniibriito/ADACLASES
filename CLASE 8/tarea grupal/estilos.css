@@ -1,0 +1,29 @@
+/* menu  */
+.menu {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #ffffff;
+    height: 60px;
+    align-items: center;
+}
+
+.items {
+    justify-content: left;
+    padding: 8px 15px;
+    font-size: 12px;
+    margin-left: 5px;
+    cursor: pointer;
+      color: rgb(0, 153, 255);
+      font-size: 20px;
+    align-items: center;
+}
+.items:hover {
+    padding: 8px 15px;
+    font-size: 12px;
+    margin-left: 5px;
+    cursor: pointer;
+      color: rgba(0, 132, 255, 0.301);
+      font-size: 20px;
+    align-items: center;
+}

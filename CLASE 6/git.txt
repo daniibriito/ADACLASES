@@ -30,7 +30,7 @@ git status
 git push origin master ()
 
 
-git remote add origin https://github.com/daniibriito/adaprueba.git
+git remote add origin https://github.com/daniibriito/ADACLASES.git
 
 sudo rm -R .git (en caso de haber creado una carpeta .git dentro de otra .git) (git init)
 git reset --soft (buscar otra versión anterior en git)
