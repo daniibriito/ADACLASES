@@ -1,0 +1,38 @@
+TEMAS:
+
+Background Image, Size, Repeat, Position
+Iconos - FontAwesome
+Flexbox
+Display flex
+Flex wrap
+Flex direction
+Justify content
+Align items
+Centrar elementos
+
+TAREA:
+
+Solo Flexbox Froggy, Pagina propia, y Citas
+
+PORTFOLIO
+Seguir completando el portfolio
+Reemplazar inline-block por flexbox
+Agregar links de redes sociales
+Agregar en el header links con puntos de anclaje a secciones de nuestra página
+WIKI
+Agregar en el índice de contenidos links con puntos de anclaje a secciones de nuestra página
+Agregar en ciertas palabras (3 o 4) de nuestro contenido links a páginas de internet (Wikipedia, algún artículo o post, etc)
+CARD
+Reemplazar inline-block por flexbox
+CITAS
+Centrar con flexbox
+
+https://github.com/Ada-Online-2da-Gen/Consignas/blob/master/Clase%2009%20(22-11-2019).md
+
+https://flexboxfroggy.com/#es
+
+MATERIAL DE APOYO:
+
+https://github.com/Ada-IT/bootcamp-frontend/blob/master/02_html-css/contenido/17_flexbox.md
+https://jonibologna.com/blog/flexbox-cheatsheet
+https://www.flexboxpatterns.com/
