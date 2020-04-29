@@ -1,0 +1,22 @@
+TEMAS:
+
+Reset CSS
+Form
+Action y method
+GET y POST
+inputs
+text
+number
+email
+file
+checkbox
+radio
+
+MATERIAL DE APOYO:
+https://github.com/Ada-IT/bootcamp-frontend/blob/master/02_html-css/contenido/05_formularios.md
+
+https://htmlreference.io/forms/
+
+https://jonathan-harrell.com/advanced-css-only-form-styling/
+
+https://meyerweb.com/eric/tools/css/reset/

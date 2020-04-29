@@ -1,0 +1,15 @@
+TEMAS:
+
+Position absolute, relative, fixed, static
+NOTA: El video se termina aproximadamente a la hora, el resto es que me olvide de pausarlo.
+
+TAREA:
+https://cdn.dribbble.com/users/208967/screenshots/2872460/082_dailyui_form.jpg
+
+https://cdn.dribbble.com/users/85668/screenshots/2386129/cruise_widget.jpg
+
+https://cdn.dribbble.com/users/412187/screenshots/2406972/credit_card_chekout_pink.png
+
+https://demo.themewagon.com/preview/clickaholic-free-bootstrap-4-html5-personal-travel-blog-website-template
+
+https://duet.jekyllthemes.io/

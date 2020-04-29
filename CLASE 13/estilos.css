@@ -1,0 +1,12 @@
+h1 {
+    background: blue;
+    color: white;
+   /*  transition-property: background;
+    transition-duration: 2s;
+    transition-timing-function: linear; */
+    transition: background 2s linear;
+}
+
+h1:hover {
+    background: crimson;
+}

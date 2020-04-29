@@ -1,0 +1,23 @@
+PARA REALIZAR UNA NUEVA BRANCH:
+
+git status
+git log
+git branch
+git checkout -b demostracion (demostracion es el nombre que se le coloca a la branch, puede ser cualquier nombre)
+(ya no dice master si no demostracion o el nombre que se le coloque)
+git log
+git checkout master (git checkout sirve para cambiar de branch)
+git log
+git checkout demostracion
+git status
+git add .
+git commit -m "clase 15"
+git log
+git checkout master
+git log
+git checkout demostracion
+git log
+git push origin demostracion
+
+
+https://learngitbranching.js.org/?NODEMO 
