@@ -1,0 +1,14 @@
+TEMAS:
+
+HTML Semantico
+Section
+Article
+Aside
+Nav
+Header
+Footer
+Diferencias entre div y section
+Como pensar una pagina desde su estructura
+
+TAREA:
+https://github.com/Ada-Online-2da-Gen/Consignas/blob/master/Clase%2007%20(15-11-2019).md

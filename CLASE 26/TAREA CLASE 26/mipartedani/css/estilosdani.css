@@ -1,0 +1,67 @@
+
+/* HERO */
+/* COMIENZO DEL HERO*/
+.hero{
+  height: 500px;
+  background-image: url('https://developer.playphone.com/App/Landing/img/main-slide-2.png');
+  background-size: 100% ;
+  font-family: Montserrat, Arial, Helvetica, Tahoma, Verdana, sans-serif;
+
+}
+
+.hero h1 {
+  margin: 0;
+}
+
+.contenidoheader {
+ width: 500px;
+ height: 236px;
+ text-align: left;
+ margin-left: 141px;
+ margin-top: 39px;
+ padding-left: 100px;
+}
+
+.tituloheader {
+
+  color: #fff;
+  font-size: 2.125em;
+  font-weight: normal;
+  display: block;
+  padding-top: 80px;
+   
+}
+
+.parrafoheader {
+  color: #fff;
+  font-size: 1.1em;
+  font-weight: normal;
+  padding-bottom: 110px;
+}
+
+.botonheader {
+color: #fff;
+background: #fe8f4f;
+border-color: #fe8f4f;
+font-size: .95em;
+font-weight: normal;
+border-width: .14em;
+display: inline-block;
+padding: 0.75em 1.4em;
+border-radius: 2em;
+cursor: pointer;
+line-height: normal;
+text-align: center;
+text-decoration: none;
+text-transform: uppercase;
+border: 0.125em solid #fe8f4f;
+color: #fff;
+transition: background 0.4s, color 0.4s, border-color 0.4s;
+}
+
+.botonheader:hover{
+   color:  #fe8f4f; 
+   background: unset;
+}
+
+/* FINAL DEL HERO */

@@ -1,0 +1,26 @@
+TEMAS:
+
+Explicacion Tablero Polaroid
+git branch
+git checkout -b nombrederama
+Formas diferentes de hacer merge
+git merge nombrederama
+Pull Requests
+git branch -d nombrederama
+Conflictos en git
+
+TAREAS:
+ 
+Consigna: https://github.com/Ada-Online-2da-Gen/Consignas/blob/master/Clase%2017%20(11-12-2019).md
+
+Tutoriales interactivos de GIT: https://learngitbranching.js.org/
+
+Playground interactivo de GIT: https://learngitbranching.js.org/?NODEMO
+
+Visualizador de GIT: http://git-school.github.io/visualizing-git/#free
+ 
+
+MATERIAL DE LECTURA:
+https://agripongit.vincenttunru.com/
+
+https://www.git-tower.com/blog/git-cheat-sheet-es

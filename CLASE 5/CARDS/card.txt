@@ -1,0 +1,4 @@
+EJEMPLO DE CARDS:
+https://freefrontend.com/css-cards/
+
+https://codepen.io/tag/card

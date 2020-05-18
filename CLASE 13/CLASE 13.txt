@@ -1,0 +1,13 @@
+TEMAS:
+
+Resolucion ejercicios de tarea de clase 12
+Transition
+Transform
+
+TAREA: 
+https://github.com/Ada-Online-2da-Gen/Consignas/blob/master/Clase%2018%20(13-12-2019).md
+
+MATERIAL DE APOYO:
+https://thoughtbot.com/blog/transitions-and-transforms
+
+https://ada7matm.github.io/pages/transition.html

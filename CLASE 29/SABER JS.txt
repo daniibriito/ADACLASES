@@ -1,0 +1,53 @@
+let es declarar
+
+let nombre;
+let nombre= "dani";
+//la variable nombre contiene dani, por lo tanto nombre guarda dani. nombre = dani
+
+let fede= "nombre";
+//la variable fede busca a nombre que es igual a dani.
+
+let fede= nombre;
+//la variable fede contiene a nombre, por lo tanto fede guarda a nombre. fede = nombre.
+
+nombre sin comillas es el nombre de una variable, entre comillas es un valor asignado.
+
+tipo de variables:
+
+let miVariableString="Mi Valor"; //string usado para textos
+let miVariableNumber= 9; //Number usado para numeros enteros
+let miVariableNumberFloat = 54.322 // numero con decimal
+let miVariableBoolean = true; //boolean que es verdadero o falso, true or false.
+let miVariableVacia= null; // no existe o no tiene valor
+let miVariableUndefined=undefined; // valores que  no han sido definidos. si yo declaro una variable sin asignarle un valor por default será undefined.
+
+typeof nombredevariable // tipo de variable
+
+
+
+console.log(variable3); imprime el valor o contenido de esa variable.
+
+alert(variable4) //muestra una ventana de alerta con el contenido de esa 
+
+let miVar = prompt("Inserte su nombre");
+
+muestra la alerta con un input para colocar el nombre, y esa variable va a tener ese nombre
+
+
+
+PASAR DE STRING A NUMBER UN VALOR EN TYPEOF:
+let variable= Number;
+variable= parseInt(prompt("Edad"));
+typeof variable;
+
+tambien se puede:
+let variable= prompt("Edad");
+typeof variable;
+variable = parseInt(variable);
+typeof variable;
+
+CONVERTIR UN NUMERO:
+parseInt("4,44");
+paseFloat("4,44");
+
+la constante no se puede modificar una vez que ya esta modificada, las variables si pueden asignarle un nuevo valor diferente.

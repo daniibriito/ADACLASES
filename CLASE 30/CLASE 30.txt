@@ -1,0 +1,12 @@
+OPERACIONES EN JAVASCRIPT:
+https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Matem%C3%A1ticas
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators
+
+EJERCICIOS:
+https://tutobasico.com/basicos-javascript/
+https://tutobasico.com/basicos-fechas-javascript/
+https://tutobasico.com/category/tutoriales-programacion/tutoriales-javascript/
+
+MODIFICAR CSS DE UN ELEMENTO CON JS:
+https://tutobasico.com/modificar-css-de-un-elemento-con-javascript/
