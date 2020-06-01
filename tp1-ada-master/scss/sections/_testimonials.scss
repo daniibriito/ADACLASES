@@ -7,8 +7,7 @@
 
 .testimonials {
 background-color: #ECF5FF;
-display: flex;
-flex-wrap: wrap;
+
 padding: 0px 0px 60px 0px;
 width: 100%;
 height: auto;
@@ -17,21 +16,18 @@ box-shadow: 15px 0px 15px 0px rgba(0, 0, 0, 0.1);
     .titulotestimonials {
         @include title-h1; 
         justify-content: center;
-        margin-top: 45px;
-        padding: 15px 15px 40px 15px;
-        
-        padding-top: 30px;
+        padding: 60px 15px 40px 15px;
+        margin-left: auto;
+        margin-right: auto;
+
         @include breakpoint-desktop-1-special {
             max-width: 60%;
-            display: block;
-            margin: auto;
+            
         }
         @include breakpoint-desktop-2 {
             max-width: 60%;
-            display: block;
-            margin: auto;
+           
         }
-         
     }
 
     .cajatestimonials{
@@ -42,19 +38,18 @@ box-shadow: 15px 0px 15px 0px rgba(0, 0, 0, 0.1);
         @include breakpoint-tablet {
             display: flex;
             align-items: flex-start;
-        } 
+        }   
         @include breakpoint-tablet-desktop{
-            max-width: 75%;
+            max-width: 70%;
         }
         @include breakpoint-desktop-1-special {
             max-width: 60%;
         }
         @include breakpoint-desktop-2 {
-            max-width: 58%;
+            max-width: 55%;
         }
-       
         
-
+       
         .imgtestimonials{
             max-width: 40%;
             border-radius: 50%;   
@@ -82,11 +77,12 @@ box-shadow: 15px 0px 15px 0px rgba(0, 0, 0, 0.1);
             @include breakpoint-tablet {
                 flex: 1;
                 padding: 10px;
+                
             }         
             
             h3{
                 @include title-h3 ($black); 
-                font-size: $font-l;
+                font-size: 20px;
                 margin: 5px auto 5px auto;
                 @include breakpoint-tablet {
                     flex: 1;
