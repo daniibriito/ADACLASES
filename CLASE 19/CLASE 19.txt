@@ -1,0 +1,16 @@
+TEMAS:
+
+Preguntas.
+Viewport
+Responsive
+Media Queries
+min-width
+Mobile First
+max-width y por qué no usarlo
+Ejercitacion.
+
+TAREA:
+Armar un header responsive, con, por lo menos 3 elementos: Titulo o logo, links, y boton de sign out. En mobile debe tener solo titulo o logo y menu hamburguesa como botón.
+
+https://github.com/fedm4/ada-online-3-front/blob/master/Clase%2019/Ejercitacion/Ejercitacion.jpg
+

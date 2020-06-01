@@ -1,3 +1,14 @@
+TEMA:
+
+preguntas
+ejercitacion
+
+TAREA: 
+Para quienes estan viendolo fuera del horario, este ejercicio lo pueden empezar. Hay una explicación en el video de qué hacer, y cualquier duda al respecto me pueden contactar por privado en discord.
+https://github.com/Ada-Online-2da-Gen/practica-maquetado
+
+
+
 FONT AWESOME:
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" integrity="sha256-KzZiKy0DWYsnwMF+X1DvQngQ2/FxF7MF3Ff72XcpuPs=" crossorigin="anonymous"></script>
 

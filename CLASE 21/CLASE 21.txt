@@ -1,0 +1,11 @@
+TEMAS:
+
+Preguntas.
+Comandos para ejecutar Sass
+Sitaxis básica de Sass
+Sass en archivos separados
+Archivos que no se compilan (guión bajo)
+
+CONSIGNA:
+
+https://github.com/Ada-Online-2da-Gen/Consignas/blob/master/Clase%2022%20(06-01-2020).md

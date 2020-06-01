@@ -1,0 +1,11 @@
+TEMAS:
+
+Preguntas.
+Como hacer un menu desplegable con input checkbox y label
+Qué es Sass y preprocesadores cd CSS
+Cómo Instalar Node y node-sass
+
+LINK DE DESCARGA NODE: https://nodejs.org/en/
+
+TAREA: 
+Consigna: En base al ejercicio de responsive, sumarle un menú desplegable hecho con input checkbox y label, cuando es mobile. Cuando es desktop debería verse el menú (nav) igual que como está actualmente.
